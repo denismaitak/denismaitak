@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @denismaitak
-- 👀 I’m interested in Python, 3D Printing and CNC factoring.
+Hi, I’m @denismaitak
+
+I’m interested in Python, 3D Printing and CNC factoring.
 
 <!---
 denismaitak/denismaitak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
